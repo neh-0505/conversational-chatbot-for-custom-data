@@ -11,5 +11,5 @@ This approach enhances the chatbot's ability to provide factually grounded respo
 DEMO:
 https://github.com/user-attachments/assets/2c5028c2-428c-4b15-bf0f-49e7977a20a6
 
-IMPROVEMENTS: thischatbot can be further developed by using advanced LLM model and compute devices like GPU and TPU for quicker and custom responses
+IMPROVEMENTS: this chatbot can be improvised by using advanced LLM model and compute devices like GPU and TPU for quicker and custom responses
 
