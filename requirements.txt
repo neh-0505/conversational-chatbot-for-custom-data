@@ -1,0 +1,12 @@
+# this is a requirements.txt file, it lists the dependencies for the project
+
+#core dependencies
+
+PyPDF2 #for PDF processing
+sentence_transformers #for sentence embeddings
+langchain #for language chain functionality
+tiktoken #for tokenization
+faiss-cpu #for GPU-accelerated similarity search; can also use faiss-cpu
+
+#additional dependencies
+ipywidgets #for interactive widgets injupyter notebook
